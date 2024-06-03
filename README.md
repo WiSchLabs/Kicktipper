@@ -73,7 +73,7 @@ python3 main.py -u <your.name@domain.com> -p <your_secret_password> -c <name_of_
 `-m` / `--matchday`: Number of the matchday to enter prediction for.
 You can define multiple matchdays to be considered by setting multiple `-m` parameters
 
-By default the script will try to enter the predictions based on betting odds displayed on the page (see above).
+By default, the script will try to enter the predictions based on betting odds displayed on the page (see above).
 
 ### Optional
 `-v` / `--verbose`: increase output verbosity (i.e. print the generated predictions in the console)
